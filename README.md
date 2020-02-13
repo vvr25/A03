@@ -3,7 +3,7 @@ GIT-an open source, distributed version-control system
 GITHUB-a platform for hosting and collaborating on Git repositories
 Repository- Repository is a place where things are stored.
 Clone- a local version of a repository, including all commits and branches
-Commit- commit takes the files as they are in the staging area and stores that snapshot permanently to your Git directory.
+Commit- saving your changes
 Push- Push update remote refs along with associated objects.
 pull- Pulling a branch means to fetch it and merge it.
 Branch-a lightweight movable pointer to a commit
