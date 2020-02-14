@@ -12,4 +12,4 @@ Merge Conflict- a merge has failed
 Fetch-Fetching a branch means to get the branch’s head ref from a remote repository, to find out which objects are missing from the local object database, and to get them.
 remote- a common repository on GitHub that all team member use to exchange their changes.
 
-Source-https://git-scm.com/docs/gitglossary
+refrences-https://git-scm.com/docs/gitglossary
